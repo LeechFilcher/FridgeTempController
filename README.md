@@ -1,7 +1,7 @@
 CHANGELOG:
 ==================================================
-Fixes:
-- Added Scematics and Wiring Diagram files to Source Code
+Additions:
+- Initial Push
 
 
 BEFORE YOU START:
