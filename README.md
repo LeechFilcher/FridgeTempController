@@ -18,7 +18,7 @@ Note that the Wiring diagram is provided AS IS and will probably not change much
 This is the wiring diagram and board design currently used for Prototyping:
 
 ![**WiringDiagram**](https://i.imgur.com/2DzZ5vt.png)
-
+![**BoardSCM**](https://i.imgur.com/uAVSCdW.png)
 
 
 
