@@ -1,7 +1,8 @@
 CHANGELOG:
 ==================================================
 Additions:
-- Initial Push
+- Added Wiring Diagrams
+- Fixed Folder Structure to be a bit better
 
 
 BEFORE YOU START:
