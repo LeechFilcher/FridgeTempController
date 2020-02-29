@@ -16,7 +16,8 @@ You also need a little speaker. I'm using a higher quality speaker here I had ly
 Note that the Wiring diagram is provided AS IS and will probably not change much anymore. I may add this to a hub that I'm planning to work on to see if your fridge needs defrosting however (this is why this is using a humidity / temperature sensor too)
 
 This is the wiring diagram and board design currently used for Prototyping:
-TO BE DONE!
+
+![**WiringDiagram**](https://imgur.com/2DzZ5vt)
 
 
 
